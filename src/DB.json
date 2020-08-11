@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "manish",
+    "email": "manish@attainu.com",
+    "number": "9809800987",
+    "password": "instructor",
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/calebogden/128.jpg"
+  },
+  {
+    "id": 2,
+    "name": "manas",
+    "email": "manas@attainu.com",
+    "number": "9809800987",
+    "password": "mentor",
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/josephstein/128.jpg"
+  },
+  {
+    "id": 3,
+    "name": "bhavleen",
+    "email": "bhavleen@attainu.com",
+    "number": "9809800987",
+    "password": "student",
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/olegpogodaev/128.jpg"
+  },
+  {
+    "id": 4,
+    "name": "vikash",
+    "email": "vikash@attainu.com",
+    "number": "9809800987",
+    "password": "student",
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/marcoramires/128.jpg"
+  },
+  {
+    "id": 5,
+    "name": "karan",
+    "email": "karan@attainu.com",
+    "number": "9809800987",
+    "password": "student",
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/stephenmoon/128.jpg"
+  },
+  {
+    "id": 6,
+    "name": "amar",
+    "email": "amar@attainu.com",
+    "number": "9809800987",
+    "password": "student",
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/bigmancho/128.jpg"
+  }
+]
